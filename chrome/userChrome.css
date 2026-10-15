@@ -1,0 +1,8 @@
+:root {
+	--button-border-radius: 8px !important;
+	--popup-border-radius: 8px !important;
+}
+
+toolbarbutton, toolbaritem, .toolbarbutton1 {
+	border-radius: 8px !important;
+}
